@@ -1,0 +1,29 @@
+Source: kbruch
+Section: math
+Priority: extra
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+Build-Depends: kde-sc-dev-latest (>= 4:4.7.1),
+ cmake, debhelper (>= 7.0.50~), pkg-kde-tools (>= 0.12),
+ kdelibs5-dev (>= 4:4.7)
+Standards-Version: 3.9.1
+Homepage: https://projects.kde.org/projects/kde/kdeedu/kbruch
+Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kbruch
+Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kbruch
+
+Package: kbruch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: fraction learning aid for KDE
+ KBruch is an aid for learning how to calculate with fractions.
+ .
+ This package is part of the KBruch module.
+
+Package: kbruch-dbg
+Section: debug
+Architecture: any
+Breaks: kdeedu-dbg (<< 4:4.6.90)
+Replaces: kdeedu-dbg (<< 4:4.6.90)
+Depends: ${misc:Depends}, kbruch (= ${binary:Version})
+Description: debugging symbols for kbruch
+ This package contains debugging files used to investigate problems with
+ binaries included in the kbruch module.

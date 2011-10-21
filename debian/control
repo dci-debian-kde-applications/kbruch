@@ -1,6 +1,6 @@
 Source: kbruch
 Section: math
-Priority: extra
+Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Eshat Cakar <info@eshat.de>
 Build-Depends: kde-sc-dev-latest (>= 4:4.7.2),
@@ -22,6 +22,7 @@ Description: fraction learning aid for KDE
 
 Package: kbruch-dbg
 Section: debug
+Priority: extra
 Architecture: any
 Breaks: kdeedu-dbg (<< 4:4.6.90)
 Replaces: kdeedu-dbg (<< 4:4.6.90)

@@ -1,11 +1,10 @@
 Source: kbruch
-Section: math
+Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Eshat Cakar <info@eshat.de>
 Build-Depends: kde-sc-dev-latest (>= 4:4.7.2),
- cmake, debhelper (>= 7.0.50~), 
- pkg-kde-tools,
+ cmake, debhelper (>= 7.3.16), pkg-kde-tools (>= 0.12),
  kdelibs5-dev (>= 4:4.7)
 Standards-Version: 3.9.2
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kbruch
@@ -14,11 +13,13 @@ Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/kbruch.git
 
 Package: kbruch
 Architecture: any
+Section: math
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Suggests: khelpcenter4
 Description: fraction learning aid for KDE
  KBruch is an aid for learning how to calculate with fractions.
  .
- This package is part of the KBruch module.
+ This package is part of the KDE education module.
 
 Package: kbruch-dbg
 Section: debug

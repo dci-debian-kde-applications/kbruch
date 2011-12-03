@@ -1,5 +1,6 @@
-kbruch (4:4.7.2-0r2) UNRELEASED; urgency=low
+kbruch (4:4.7.2-0r2) experimental; urgency=low
 
+  [ Eshat Cakar ]
   * Initial release. Start from the Kubuntu packaging, thanks!
 
- -- Eshat Cakar <info@eshat.de>  Fri, 21 Oct 2011 23:59:27 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 03 Dec 2011 10:43:04 -0300

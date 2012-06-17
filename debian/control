@@ -31,4 +31,6 @@ Replaces: kdeedu-dbg (<< 4:4.6.90)
 Depends: ${misc:Depends}, kbruch (= ${binary:Version})
 Description: debugging symbols for kbruch
  This package contains debugging files used to investigate problems with
- binaries included in the kbruch module.
+ kbruch.
+ .
+ This package is part of the KDE education module.

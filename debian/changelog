@@ -8,6 +8,8 @@ kbruch (4:4.8.4-0r1) UNRELEASED; urgency=low
   * Add watch file.
   * Convert copyright to copyright-format v1.0 and fix/update.
   * Slightly improve the description of kbruch-dbg.
+  * Install everything in the destination directory of kbruch,
+    instead of using a redundant .install file.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 17 Jun 2012 15:16:25 +0200
 

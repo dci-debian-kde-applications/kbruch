@@ -1,6 +1,8 @@
 kbruch (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
+  * Release to vivid
+  * manual merge unstable
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:02:44 -0700
 

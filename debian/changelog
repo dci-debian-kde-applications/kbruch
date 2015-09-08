@@ -6,6 +6,31 @@ kbruch (4:15.08.0-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 16:38:26 +0200
 
+kbruch (4:15.08.0-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Wed, 26 Aug 2015 17:09:45 +0100
+
+kbruch (4:15.07.90-0ubuntu1) wily; urgency=medium
+
+  * New upstream release
+  * new upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 09:36:15 +0100
+
+kbruch (4:15.04.2-0ubuntu1) wily; urgency=medium
+
+  [ Scarlett Clark ]
+  * New upstream release
+  * wrap-and-sort. 
+  * Vivid backport
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 18:40:39 +0200
+
 kbruch (4:14.12.3-1) experimental; urgency=medium
 
   * New upstream release (14.12.3).
@@ -15,6 +40,8 @@ kbruch (4:14.12.3-1) experimental; urgency=medium
 kbruch (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
+  * Release to vivid
+  * manual merge unstable
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:02:44 -0700
 

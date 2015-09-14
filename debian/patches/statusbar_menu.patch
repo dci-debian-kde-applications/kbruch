@@ -1,0 +1,22 @@
+Description: 
+   * Removed 'Show StatusBar' menu item from Learning.
+Author: Prathibha B <prathibhab@cdac.in>
+
+---
+Bug-Debian: https://bugs.debian.org/796199
+Forwarded: no
+Last-Update: 2015-09-14
+
+Index: kbruch/src/FractionRingWidget.cpp
+===================================================================
+--- kbruch.orig/src/FractionRingWidget.cpp	2015-09-14 12:16:30.924444187 +0200
++++ kbruch/src/FractionRingWidget.cpp	2015-09-14 12:16:48.127761297 +0200
+@@ -221,7 +221,7 @@
+     KStandardAction::preferences(this,  SLOT(slotPrefs()), actionCollection());
+ 
+     resize(QSize(725, 330).expandedTo(minimumSizeHint()));
+-    setupGUI(ToolBar | Keys | StatusBar | Create);
++    setupGUI(ToolBar | Keys);
+     setAutoSaveSettings();
+ }
+ 

@@ -1,10 +1,10 @@
-kbruch (4:15.08.0-2~1) UNRELEASED; urgency=medium
+kbruch (4:15.08.0-2) unstable; urgency=medium
 
   * New patch: learning_config_toolbar.patch (Closes: #796200) Thanks to
     Prathibha B
   * New patch: statusbar_menu.patch (Closes: #796199) Thanks to Prathibha B
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 14 Sep 2015 12:15:15 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 02:45:02 +0200
 
 kbruch (4:15.08.0-1) unstable; urgency=medium
 

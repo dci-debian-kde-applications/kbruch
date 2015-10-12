@@ -1,3 +1,9 @@
+kbruch (4:15.08.2-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (15.08.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 12 Oct 2015 15:33:32 +0200
+
 kbruch (4:15.08.0-2) unstable; urgency=medium
 
   * New patch: learning_config_toolbar.patch (Closes: #796200) Thanks to

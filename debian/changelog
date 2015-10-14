@@ -1,6 +1,7 @@
 kbruch (4:15.08.2-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.08.2).
+  * Remove upstream applied patch: statusbar_menu.patch
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 12 Oct 2015 15:33:32 +0200
 

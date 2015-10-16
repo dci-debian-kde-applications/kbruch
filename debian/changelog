@@ -1,10 +1,10 @@
-kbruch (4:15.08.2-1~) UNRELEASED; urgency=medium
+kbruch (4:15.08.2-1) unstable; urgency=medium
 
   * New upstream release (15.08.2).
   * Remove upstream applied patch: statusbar_menu.patch
   * Remove upstream applied patch: learning_config_toolbar.patch
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 12 Oct 2015 15:33:32 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 16 Oct 2015 08:06:59 +0200
 
 kbruch (4:15.08.0-2) unstable; urgency=medium
 

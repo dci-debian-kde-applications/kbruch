@@ -1,8 +1,28 @@
+kbruch (4:15.12.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (15.12.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Dec 2015 16:21:23 +0100
+
 kbruch (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:41:10 +0000
+
+kbruch (4:15.08.3-1) unstable; urgency=medium
+
+  * New upstream release (15.08.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Dec 2015 12:39:57 +0100
+
+kbruch (4:15.08.2-1) unstable; urgency=medium
+
+  * New upstream release (15.08.2).
+  * Remove upstream applied patch: statusbar_menu.patch
+  * Remove upstream applied patch: learning_config_toolbar.patch
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 16 Oct 2015 08:06:59 +0200
 
 kbruch (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -16,6 +36,22 @@ kbruch (4:15.08.1-0ubuntu1) wily; urgency=medium
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 16:18:48 +0100
+
+kbruch (4:15.08.0-2) unstable; urgency=medium
+
+  * New patch: learning_config_toolbar.patch (Closes: #796200) Thanks to
+    Prathibha B
+  * New patch: statusbar_menu.patch (Closes: #796199) Thanks to Prathibha B
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 02:45:02 +0200
+
+kbruch (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.04.0).
+  * New upstream release (15.04.1).
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 18:42:39 +0200
 
 kbruch (4:15.08.0-0ubuntu1) wily; urgency=medium
 
@@ -41,6 +77,12 @@ kbruch (4:15.04.2-0ubuntu1) wily; urgency=medium
   * New upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 18:40:39 +0200
+
+kbruch (4:14.12.3-1) experimental; urgency=medium
+
+  * New upstream release (14.12.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 29 Mar 2015 15:13:18 +0200
 
 kbruch (4:14.12.3-0ubuntu1) vivid; urgency=medium
 

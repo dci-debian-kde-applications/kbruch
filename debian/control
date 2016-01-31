@@ -30,14 +30,3 @@ Description: fraction learning aid for KDE
  KBruch is an aid for learning how to calculate with fractions.
  .
  This package is part of the KDE education module.
-
-Package: kbruch-dbg
-Section: debug
-Priority: extra
-Architecture: any
-Depends: kbruch (= ${binary:Version}), ${misc:Depends}
-Description: debugging symbols for kbruch
- This package contains debugging files used to investigate problems with
- kbruch.
- .
- This package is part of the KDE education module.

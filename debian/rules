@@ -3,7 +3,7 @@
 include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
 
 override_dh_auto_install:
-	$(overridden_command) --destdir=debian/kbruch
+	$(overridden_command) --destdir=debian/tmp
 
 override_dh_strip:
-	$(overridden_command) --dbg-package=kbruch-dbg
+	$(overridden_command) --ddeb-migration='kbruch-dbg (<= 4:15.12.1-1~~)'

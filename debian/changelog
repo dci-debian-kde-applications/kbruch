@@ -1,3 +1,12 @@
+kbruch (4:15.12.3-1~1.gbp038eae) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @038eae7864d8fd923518f6836510801b9a1795ca **
+
+  * Bump Standards-Version to 3.9.8
+  * Refresh patches
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:22:52 +0200
+
 kbruch (4:15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).

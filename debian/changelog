@@ -1,11 +1,12 @@
-kbruch (4:15.12.3-1~1.gbp038eae) UNRELEASED; urgency=medium
+kbruch (4:16.04.0-1~1.gbp6bcc5b) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @038eae7864d8fd923518f6836510801b9a1795ca **
+  ** SNAPSHOT build @6bcc5b4b7b530ecb8808779ac5fa8160b65f41a9 **
 
   * Bump Standards-Version to 3.9.8
   * Refresh patches
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:22:52 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 04:22:12 +0200
 
 kbruch (4:15.12.1-1) experimental; urgency=medium
 

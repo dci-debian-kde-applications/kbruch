@@ -1,8 +1,12 @@
-kbruch (4:15.12.2-1~) UNRELEASED; urgency=medium
+kbruch (4:16.04.0-1~1.gbp6bcc5b) UNRELEASED; urgency=medium
 
-  * New upstream release (15.12.2).
+  ** SNAPSHOT build @6bcc5b4b7b530ecb8808779ac5fa8160b65f41a9 **
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 10:09:20 +0100
+  * Bump Standards-Version to 3.9.8
+  * Refresh patches
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 04:22:12 +0200
 
 kbruch (4:15.12.1-1) experimental; urgency=medium
 

@@ -1,6 +1,6 @@
-kbruch (4:16.04.0-1~2.gbpce4ded) UNRELEASED; urgency=medium
+kbruch (4:16.04.1-1~1.gbpa8be16) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @ce4ded06f62b1e8381e46f59cc69a4343b5eecb3 **
+  ** SNAPSHOT build @a8be166fdf569629f6ea89c16e04c2e6d02866e2 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @6bcc5b4b7b530ecb8808779ac5fa8160b65f41a9 **
@@ -14,8 +14,9 @@ kbruch (4:16.04.0-1~2.gbpce4ded) UNRELEASED; urgency=medium
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:22:15 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 22:22:14 +0200
 
 kbruch (4:15.12.1-1) experimental; urgency=medium
 

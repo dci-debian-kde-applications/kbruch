@@ -1,3 +1,11 @@
+kbruch (4:16.08.0-1~1.gbp949135) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @94913579a0528e0be9dfcb42418c8a7425a81835 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 22:22:12 +0200
+
 kbruch (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]

@@ -1,10 +1,8 @@
-kbruch (4:16.08.0-1~1.gbp949135) UNRELEASED; urgency=medium
+kbruch (4:16.08.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @94913579a0528e0be9dfcb42418c8a7425a81835 **
+  * New upstream release (16.08.0)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 22:22:12 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 17 Oct 2016 23:14:39 +0200
 
 kbruch (4:16.04.1-1) unstable; urgency=medium
 

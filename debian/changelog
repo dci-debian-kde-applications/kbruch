@@ -1,3 +1,11 @@
+kbruch (4:16.08.0-2~1.gbpff25ab) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @ff25ab12dea5030d18035b7d37c70456b8bfa37d **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Mon, 17 Oct 2016 23:22:28 +0200
+
 kbruch (4:16.08.0-1) unstable; urgency=medium
 
   * New upstream release (16.08.0)

@@ -27,6 +27,8 @@ Architecture: any
 Section: math
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Suggests: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: fraction learning aid for KDE
  KBruch is an aid for learning how to calculate with fractions.
  .

@@ -7,6 +7,9 @@ kbruch (4:17.08.3-0r1) UNRELEASED; urgency=medium
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
   * Remove trailing whitespaces in changelog.
+  * Stop forcing debian/tmp as local installation directory, installing
+    everything to the final location
+    - drop kbruch.install, and not-installed, no more useful now
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 02 Dec 2017 11:03:56 +0100
 

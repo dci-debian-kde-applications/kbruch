@@ -6,6 +6,7 @@ kbruch (4:17.08.3-0r1) UNRELEASED; urgency=medium
     drop translations.
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
+  * Remove trailing whitespaces in changelog.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 02 Dec 2017 11:03:56 +0100
 
@@ -200,7 +201,7 @@ kbruch (4:15.04.2-0ubuntu1) wily; urgency=medium
 
   [ Scarlett Clark ]
   * New upstream release
-  * wrap-and-sort. 
+  * wrap-and-sort.
   * Vivid backport
 
   [ Jonathan Riddell ]
@@ -345,10 +346,10 @@ kbruch (4:4.7.4-2) unstable; urgency=low
 
 kbruch (4:4.7.4-1) experimental; urgency=low
 
-  * New upstream release. 
-  
+  * New upstream release.
+
   [ José Manuel Santamaría Lema ]
-  * Bump kde-sc-dev-latest build dependency to 4:4.7.4. 
+  * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 18 Dec 2011 01:40:10 +0100
 
